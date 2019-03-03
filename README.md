@@ -1,7 +1,7 @@
 The Reactivity Effects of Flibe Impurities in FHRs
 ==================================================
 
-A (draft) paper authored by Jeffrey E. Seifried, Raluca O. Scarlat, Per F. Peterson, and Ehud Greenspan.  LaTeX template was plucked from [here](https://github.com/paulromano/ans-latex-class).
+A paper authored by Jeffrey E. Seifried, Raluca O. Scarlat, Per F. Peterson, and Ehud Greenspan, submitted to [Nuclear Engineering and Design](https://www.journals.elsevier.com/nuclear-engineering-and-design), and published in [March 2019](https://dx.doi.org/10.1016/j.nucengdes.2018.09.038).  LaTeX template was plucked from [here](https://github.com/paulromano/ans-latex-class).
 
 Abstract
 --------
